@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Admin</string>
+    <string name="login">Login</string>
+    <string name="agarwal_co">Agarwal Co.</string>
+    <string name="gst_number">GST_Number</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone</string>
+    <string name="done">Done</string>
+    <string name="name_of_company">Name of company</string>
+    <string name="register">Register</string>
+    <string name="orders">Orders</string>
+</resources>
